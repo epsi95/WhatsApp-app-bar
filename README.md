@@ -1,7 +1,7 @@
 # whatsapp_app_bar
 
-Flutter implementation of WhatsApp appbar.
-<img src="images/WhatsAppFalse.gif" height = "200">
+<div><h2>Flutter implementation of WhatsApp appbar.</h2>
+<img src="images/WhatsAppFalse.gif" height = "200"></div>
 
 ## Getting Started
 
